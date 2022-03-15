@@ -1,9 +1,9 @@
 ### Hello, stranger 👋💜
 
 
-- 🔭 I’m currently working with Ruby on Rails at [C2S](https://www.contact2sale.com/)
+- 🔭 I’m currently working with Ruby on Rails and have a little experience with Java
 - 🌱 I’m currently learning about API, Microservices and Tests with Ruby on Rails
-- 🤔 I would like to learning JavaScript to complement my studies
+- 🤔 I would like to learning Java and JavaScript to complement my studies
 - ⚡ Fun fact: I like weird things and my favourite author is George Orwell 💜
 
 ##
